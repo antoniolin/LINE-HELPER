@@ -1,0 +1,5 @@
+{
+  "name": "Luxury Hunter AI",
+  "description": "Automated product analyzer for luxury goods resellers. Upload images to extract brand, price, and SKU, with automatic currency conversion and fee calculation.",
+  "requestFramePermissions": []
+}
